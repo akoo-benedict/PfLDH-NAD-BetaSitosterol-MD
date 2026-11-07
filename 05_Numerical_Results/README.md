@@ -1,0 +1,1 @@
+Numerical results from the 100 ps PfLDH-NAD-beta-sitosterol molecular dynamics trajectory, including protein and ligand RMSD, periodic-boundary quality control, residue contact occupancy, density, and volume.
